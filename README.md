@@ -18,6 +18,8 @@
 ## I know:
 
 Python | Data Analysis | Machine Learning | Data Visualization | 
+
 Microsoft SQL Server | DBMD | Tableau | Google Sheets | 
+
 Git | Github | HTML/CSS | Linux | Agile | Jira
 
