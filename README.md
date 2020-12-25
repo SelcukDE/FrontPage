@@ -5,7 +5,7 @@
 ## This is Selcuk De
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SelcukDE" alt="SelcukDE" /> </p>
 
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/selcuk-degerli-6357614/)
+**/ [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/selcuk-degerli-6357614/) /**
 [![](https://img.shields.io/badge/tableau-%2312100E.svg?&style=for-the-badge&logo=tableau&logoColor=orange)](https://public.tableau.com/profile/selcuk.degerli#!/)
 
 
