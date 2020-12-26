@@ -5,13 +5,12 @@
 ## This is Selcuk De
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SelcukDE" alt="SelcukDE" /> </p>
 
-**
-
-
-**
 
 
 
+
+
+***************************************************************************************
 - 🔭 I’m currently working on an NLP Project (Python | scikit-learn | NLTK)
 - 🌱 I’m currently learning deep learning (ANN | Neural Networks | TensorFlow | Keras)
 - 👯 I'm looking to contribute in real-world Data Science projects
