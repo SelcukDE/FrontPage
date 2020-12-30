@@ -1,7 +1,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=SelcukDE&show_icons=true&theme=buefy" align='right' width="55%">
 
 
-## Hi 👋👋👋
+## Hi! 👋👋👋
 ## This is Selcuk De
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SelcukDE" alt="SelcukDE" /> </p>
 
