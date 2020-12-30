@@ -15,7 +15,7 @@
 - 🔭 I’m currently working on an NLP Project (Python | scikit-learn | NLTK)
 - 🌱 I’m currently learning deep learning (ANN | Neural Networks | TensorFlow | Keras)
 - 👯 I'm looking to contribute in real-world Data Science projects
-- 💬 Ask me about anything that you want to learn
+
 
 ## I know:
 
