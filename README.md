@@ -2,7 +2,7 @@
 
 
 ## Hi! 👋👋👋
-## This is Selcuk De
+## This is Selcuk Degerli
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SelcukDE" alt="SelcukDE" /> </p>
 
 ***************************************************************************************
